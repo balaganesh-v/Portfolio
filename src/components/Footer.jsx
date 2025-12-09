@@ -36,7 +36,7 @@ export default function Footer() {
                         <a href="mailto:vbalaganesh2007@gmail.com" className="hover:text-gray-400">
                             <FaEnvelope />
                         </a>
-                        <a href="https://instagram.com/rolls_royce_828" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
+                        <a href="https://instagram.com/_.ganeshxx._21" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
                             <FaInstagram />
                         </a>
                         <a href="https://pinterest.com/vbalaganesh2007" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">

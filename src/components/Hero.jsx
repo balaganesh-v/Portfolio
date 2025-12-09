@@ -14,7 +14,7 @@ function Hero() {
                 <a href="mailto:vbalaganesh2007@gmail.com" className="text-gray-700 hover:text-red-500 hover:scale-110 transition text-2xl">
                     <FaEnvelope />
                 </a>
-                <a href="https://instagram.com/rolls_royce_828" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-[#E1306C] hover:scale-110 transition text-2xl">
+                <a href="https://instagram.com/_.ganeshxx._21" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-[#E1306C] hover:scale-110 transition text-2xl">
                     <FaInstagram />
                 </a>
                 <a href="https://pinterest.com/vbalaganesh2007" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-[#BD081C] hover:scale-110 transition text-2xl">
