@@ -26,7 +26,7 @@ function About() {
                     {/* About Text */}
                     <div className="text-left max-w-md md:max-w-lg">
                         <h3 className="text-2xl font-semibold text-gray-900 mb-4">
-                            Hello! I'm <span className="text-gray-400">V. Balaganesh</span>
+                            Hello! I'm <span className="text-gray-500 hover:text-gray-400">V. Balaganesh</span>
                         </h3>
 
                         <p className="text-gray-700 text-base md:text-lg leading-relaxed mb-4">
